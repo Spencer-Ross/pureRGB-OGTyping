@@ -5,7 +5,7 @@ Route2WildMons:
 	db  4, EKANS
 	db  4, GROWLITHE
 	db  5, SPEAROW
-	db  3, CATERPIE
+	db  3, MEOWTH
 	db  2, GROWLITHE
 	db  5, EKANS
 	db  4, SPEAROW

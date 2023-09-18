@@ -3,7 +3,7 @@
 	db  65,  93,  57, 105,  95
 	;   hp  atk  def  spd  spc
 
-	db ELECTRIC, FIGHTING ; type
+	db ELECTRIC, ELECTRIC ; type
 	db 75 ; catch rate
 	db 156 ; base exp
 
